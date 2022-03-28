@@ -1,0 +1,33 @@
+<svg id="Falling_Wedge" data-name="Falling Wedge" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 219.1 167.07">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        stroke: #ff693b;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        stroke: #2196f5;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="56.9 28.38 216.1 105.9 72.1 91.79"/>
+  <polyline class="cls-2" points="66.56 54.87 76.82 82.94 91.07 54.85 116.4 88.23 131.18 72.7 153.64 92.06 156.87 86.81"/>
+  <line class="cls-3" x1="196.71" y1="3.5" x2="164.82" y2="71.38"/>
+  <polyline class="cls-3" points="35.71 87.31 24.13 134.47 13.95 124.86 3.5 163.57"/>
+  <polyline class="cls-3" points="60.14 41.12 44.75 100.57 35.71 87.31"/>
+</svg>

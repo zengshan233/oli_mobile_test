@@ -1,0 +1,23 @@
+{
+    "name": "Oli View",
+    "short_name": "Oli View",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "Welcome to Oli View",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon-60.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-83.png",
+            "sizes": "83x83",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,379 @@
+{
+	"common": {
+		"a": "Update at",
+		"b": "more",
+		"c": "Content not available",
+		"d": "fold",
+		"e": "Select Date",
+		"f": "Confirm",
+		"g": "Cancel",
+		"h": "Edit",
+		"i": "Please try again later",
+		"j": "Analyst",
+		"k": "Version: ",
+		"m": "Customer Service",
+		"n": "Say something",
+		"o": "Enter the keyword",
+		"p": "Download app to enjoy customer service",
+		"r": "Got it",
+		"s": "See More"
+	},
+	"navigator": {
+		"a": "Home",
+		"b": "Research",
+		"c": "Markets",
+		"d": "Me",
+		"e": "Video"
+	},
+	"home": {
+		"a": "Oli View",
+		"b": "Most Popular",
+		"c": "Recent",
+		"d": "Oli View"
+	},
+	"research": {
+		"a": "Oli News",
+		"menu": {
+			"a": "News",
+			"5": "Industry Report",
+			"4": "Weekly Report",
+			"3": "Equity Report",
+			"b": "Starred"
+		}
+	},
+	"markets": {
+		"a": "Market",
+		"b": "Bull of the Day",
+		"c": "Bear of the Day",
+		"d": "Last trading day: {date}",
+		"e": "US",
+		"f": "AU",
+		"g": "Economic Calendar",
+		"h": "Recent Patterns",
+		"i": "Watchlist ",
+		"j": "US IPO Calendar",
+		"k": "Bear",
+		"l": "Neutral",
+		"m": "Bull",
+		"n": "Stock symbol or name, like AAPL",
+		"o": "Markets Overview",
+		"p": "Potential Invest Opportunities",
+		"r": "Slide to switch ASX or US",
+		"s": "Click the menu to discover more",
+		"t": "Risk Warning: potential opportunities of stocks calculated by algorithms and this is not investment advice. ",
+		"u": "Research information is only available to subscribed users",
+		"v": "Subscribe",
+		"w": "Click the button to find more research about potential invest opportunities",
+		"x":"Go",
+		"tabs": {
+			"a": "Overviews and News",
+			"b": "Technical Analysis",
+			"c": "Bear vs Bull",
+			"d": "Analyst Ratings",
+			"e": "Owners and Insiders",
+			"f": "Daily Gross Short Sales"
+		},
+		"date": {
+			"a": "Yesterday",
+			"b": "Today",
+			"c": "Tomorrow",
+			"d": "This Week",
+			"e": "Next Week"
+		},
+		"ipo_title": {
+			"a": "Date",
+			"b": "Company Name",
+			"c": "Exchange",
+			"d": "Price",
+			"e": "Total Shares Value",
+			"f": "Status"
+		},
+		"menu": {
+			"a": "Markets",
+			"b": "Potential Opportunities",
+			"c": "Recent Patterns",
+			"d": "Economic Calendar",
+			"e": "IPO Calendar",
+			"f": "Watchlist",
+			"g": "Precious Metal"
+		},
+		"stock": {
+			"a": "Financial Summaries",
+			"b": "News Sentiment",
+			"c": "Company Summaries",
+			"d": "Company Name",
+			"e": "IPO Date",
+			"f": "Exchange",
+			"g": "Description",
+			"h": "52 Weeks High",
+			"i": "52 Weeks Low",
+			"j": "Market Capitalization",
+			"k": "Dividend Yield",
+			"l": "PE",
+			"m": "EPS",
+			"n": "Dividend History",
+			"o": "Record Date",
+			"p": "Amount",
+			"q": "Adjusted Amount",
+			"r": "Bearish: {value}",
+			"s": "Bullish: {value}",
+			"t": "From last financial year {year}, {symbol}'s income {incomeTip}, net income {netIncome}%, net assets {netAssets}%.",
+			"u": "Income",
+			"v": "Asset",
+			"w": "Cash Flow",
+			"statistic": {
+				"a": "Investment Return",
+				"b": "Net Profit Margin",
+				"c": "Operating Margin",
+				"d": "Gross Margin",
+				"e": "Long Term Debt",
+				"f": "Total Debt",
+				"g": "Current Ratio",
+				"h": "Quick Ratio",
+				"i": "Revenue Per Share",
+				"j": "Operating Cash Flow"
+			},
+			"statistic_line": {
+				"a": "Gross Income",
+				"b": "Net Income",
+				"c": "Total Assets",
+				"d": "Total Debt",
+				"e": "Total Cash",
+				"f": "Net Cash Change"
+			}
+		},
+		"technic": {
+			"a": "Support and Resistance Level",
+			"b": "Pattern",
+			"c": "Date"
+		},
+		"quota": {
+			"a": "Bearish",
+			"b": "Bullish",
+			"c": "{symbol}'s sector: {sector}",
+			"d": "{nbAbove} indicators are higher than sector median, {nbBelow} indicators are lower than sector median.",
+			"e": "Bearish Indicators",
+			"f": "Bullish Indicators",
+			"g": "Beat {value}% competitors"
+		},
+		"recommend": {
+			"a": "Utill {year}, {symbol}'s recommendation trend is: {buy} buy rating, {hold} hold rating, {sell} sell rating.",
+			"b": "Lowest",
+			"c": "Average",
+			"d": "Highest",
+			"e": "Analysts",
+			"f": "Rating",
+			"g": "Target Price",
+			"h": "Date",
+			"i": "Note: analysts provide estimates based on current market.",
+			"j": "BUY: {value}",
+			"k": "HOLD: {value}",
+			"l": "SELL: {value}",
+			"m": "Symbol"
+		},
+		"owner_ship": {
+			"a": "Insider Transactions",
+			"b": "Top Shareholder",
+			"c": "Top Fund Ownership",
+			"d": "Shareholder",
+			"e": "Date",
+			"f": "Volume",
+			"g": "Share",
+			"h": "Percent"
+		},
+		"sale": {
+			"a": "Date",
+			"b": "Gross Short Sales(a)",
+			"c": "Issued Capital(b)",
+			"d": "Percentage(a/b)"
+		}
+	},
+	"mine": {
+		"a": "Login",
+		"b": "Starred",
+		"c": "Watchlist",
+		"d": "history",
+		"e": "Subscription",
+		"f": "Analyst",
+		"g": "Customer Service",
+		"h": "Settings",
+		"i": "Clear Cache",
+		"j": "Cache Cleared!",
+		"login": {
+			"a": "WELCOME to",
+			"b": "Account",
+			"c": "E-mail Account",
+			"d": "Password",
+			"e": "Password",
+			"f": "Forget Password?",
+			"g": "Sign Up",
+			"h": "Login",
+			"i": "Phone",
+			"j": "Phone Number",
+			"titles": {
+				"a": "Email Login",
+				"b": "Phone Login",
+				"c": "Email Registration",
+				"d": "Phone Registration",
+				"e": "Email Reset",
+				"f": "Phone Reset"
+			}
+		},
+		"register": {
+			"a": "Name",
+			"b": "Please enter your name",
+			"c": "Email ",
+			"d": "Please enter your email ",
+			"e": "Password",
+			"f": "At least 8 characters including UPPERCASE and lowercase",
+			"g": "Register"
+		},
+		"find": {
+			"a": "Reset Password",
+			"b": "Verification Code",
+			"c": "Please enter your code",
+			"d": "SEND",
+			"e": "Confirm"
+		},
+		"setting": {
+			"a": "Settings",
+			"b": "Profile",
+			"c": "Change Password",
+			"d": "Notifications",
+			"e": "About us",
+			"f": "Language",
+			"g": "CH",
+			"h": "EN",
+			"i": "Logout",
+			"j": "Version: {value}",
+			"k": "《Financial Services Guide》",
+			"l": "《Service Usage Agreement》",
+			"m": "《Risk And Warning》",
+			"n": "《Privacy Policy》",
+			"o": "《Customer Complaint Guideline》",
+			"p": "《Client Agreement》",
+			"1": "",
+			"password": {
+				"a": "Change Password",
+				"b": "Old",
+				"c": "New",
+				"d": "Confirm",
+				"e": "Please enter your password",
+				"f": "At least 8 characters including UPPERCASE and lowercase",
+				"g": "Confirm Password",
+				"h": "Confirm"
+			},
+			"notice": {
+				"a": "Notifications",
+				"b": "Customer Service Message",
+				"c": "System Message"
+			},
+			"profile": {
+				"a": "Profile",
+				"b": "Change Photo",
+				"c": "Name",
+				"d": "Description",
+				"e": "Gender",
+				"f": "Date of Birth",
+				"g": "Contact Number",
+				"h": "Male",
+				"i": "Female",
+				"j": "Editting..."
+			}
+		},
+		"subscribe": {
+			"a": "Subscription",
+			"b": "Videos for Subscribed Users Only",
+			"c": "Unlimited Equity Reports",
+			"d": "Unlimited Industry/Weekly Reports",
+			"e": "Talk with Analyst One-on-One",
+			"f": "Comprehensive Fundmental Analysis",
+			"g": "Unlimited Technical Analysis Tools",
+			"g2": "Recommendations from Analysts",
+			"h": "Your subscription expires on {value}",
+			"i": "《Terms and Conditions》",
+			"j": "Subscribe",
+			"k": "Activate",
+			"l": "Auto Renewals",
+			"m": "Pay",
+			"n": "{value} Month",
+			"o": "Analyst service is not availabe",
+			"p": "Restore Purchases",
+			"r": "Restoring...",
+			"s": "Payment in progress...",
+			"t": "Validating payment...",
+			"u": "Subscription done!",
+			"v": "Subscription failed, try again later",
+			"w": "Validating previous payment...",
+			"x": "You need to accept the agreement first",
+			"y": "You must cancel your current subscription first",
+			"z": "Payment record not found",
+			"a1": "Stop auto renewals",
+			"b2": "Subscription will be automatically renewed. Cancel at anytime in Settings - Subscriptions at least one day before renewal date.",
+			"c2": "Please select one subscription product",
+			"d2":"Please change your 'Apple Id' to subscribe"
+		}
+	},
+	"meta": {
+		"a": "Order",
+		"b": "Order",
+		"tabs": {
+			"a": "Gold",
+			"b": "Silver",
+			"c": "Platinum",
+			"d": "Palladium"
+		},
+		"description": {
+			"a": "Physical gold is an asset that has captured society's imagination for thousands of years and has long been the ultimate way for people to both display and store wealth. This remains so even today, and for investors looking to purchase gold, it is typically bought in coin or bar form, with the international standard set at ‘999.9’, meaning that physical gold products are 99.99% pure gold. All bullion products are marked with their purity and adhere to the strictest quality standards. Please note: all bar, tablet and coin measurements listed are a guide only, slight variations may occur. All specified weights are exact. Except in the instance of the ABC Bullion 400oz gold cast bar, weight variations are accounted for in the individual pricing of each bar. ",
+			"b": "Physical silver has become an increasingly popular choice for precious metal investors. Although not as rare as gold, therefore valued lower in weight (in ounces or grams) than its more illustrious cousin. Buying silver bullion or pure silver bars is a great way to compliment your gold holdings and diversify your investment portfolio. ",
+			"c": "Platinum is a very rare metal – even rarer than gold. The main uses for the metal are in emissions control (catalytic converters) and jewellery. A wide range of platinum bars Platinum has become a popular jewellery metal, not only because of its rarity but because it never tarnishes and is very hard-wearing. Platinum tends to be more volatile in terms of pricing than gold. Some of our investor’s love to buy platinum bars as a way of keeping a balanced portfolio of precious metals. ",
+			"d": "Palladium is a very rare metal – even rarer than gold. The main uses for the metal are in emissions control (catalytic converters) and jewellery. Our most popular is the PAMP 1oz palladium bar. Our clients often buy palladium in conjunction with holdings in gold, silver and platinum. "
+		},
+		"title": {
+			"a": "Buy Gold Products",
+			"b": "Buy Silver Products",
+			"c": "Buy Platinum Products",
+			"d": "Buy Palladium Products"
+		},
+		"form": {
+			"a": "Price Range",
+			"b": "Deposit: 2000 AUD",
+			"c": "Please note: the real-time price may be changed at any time. We do not give refund of your deposit if your order's total price is less then $20,000. ",
+			"d": "Payment in progress...",
+			"e": "Payment failed! {value}",
+			"f": "Successfully Ordered！",
+			"g": "We will contact you for more products details later, please wait.",
+			"h": "Buy Again",
+			"i": "Bank Card",
+			"verify": {
+				"a": "First Name cannot be empty!",
+				"b": "Last Name cannot be empty!",
+				"c": "Phone cannot be empty!",
+				"d": "State/Province cannot be empty!",
+				"e": "Postal Code cannot be empty!",
+				"f": "Address Line 1 cannot be empty!",
+				"g": "Please select country",
+				"h": "Bank Card is not correct!",
+				"i": "Please select price range!"
+			},
+			"address": {
+				"a": "Shipping Address",
+				"b": "First Name",
+				"c": "Last Name",
+				"d": "Company Name（Optional）",
+				"e": "Phone Number（Required）",
+				"f": "State/Province",
+				"g": "Postal Code",
+				"h": "Address Line 1",
+				"i": "Address Line 2（Optional）",
+				"j": "Country",
+				"k": "PLACE ORDER"
+			}
+		}
+	},
+	"update": {
+		"a": "New vesion available: ",
+		"b": "Upgrade",
+		"c": "Ignore"
+	}
+}
