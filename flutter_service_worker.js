@@ -3,10 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cdf864fe5656487402f0034bf692acaf",
+  "assets/AssetManifest.json": "3e4cfc5b35f834bc1d3779401ffff606",
 "assets/assets/fonts/iconfont.ttf": "303222c0f9511b05a545b488c15a88ad",
 "assets/assets/i18n/en.json": "ac7ae8cfb9c9b0fcd407d932f02ddcd8",
 "assets/assets/i18n/zh.json": "1ac7cbd90389702a3b6d03102ee9a60b",
+"assets/assets/images/card_default.png": "2bde559a48487be5c48325492ace9aab",
+"assets/assets/images/card_master.png": "7b7905f96f07938de98686c0ecdc68bc",
+"assets/assets/images/card_visa.png": "05422e6cd3ee75e2268155d0fd44260c",
+"assets/assets/images/card_yl.png": "7485a2b60bafdde3b1da511f60485901",
+"assets/assets/images/card_yy.png": "9c4037404eff8f35f843721c8d1620b4",
 "assets/assets/images/creator_bg.webp": "db5384f5e1c0d8b78d9c75ccfbe0a39c",
 "assets/assets/images/customer.png": "daf4f571f6228e9e82599eed3faae368",
 "assets/assets/images/customer_s.png": "c20324f9d257b61f99a62528236456ee",
@@ -68,7 +73,7 @@ const RESOURCES = {
 "assets/assets/images/icons/news.png": "0c3636c93b156b4f8055d027675a8998",
 "assets/assets/images/icons/news_tab.png": "6845cbcdef60a3d70d4fcac0b7916229",
 "assets/assets/images/icons/picked.png": "badd0539f270943de79071f0a016e7cf",
-"assets/assets/images/icons/play.png": "92bfba870384eb123bcc7f330a508abc",
+"assets/assets/images/icons/play.png": "ed0e84e3d5c3f3579fe0e53142b9b0f6",
 "assets/assets/images/icons/point.png": "59c6cfde274d756e5a8b05771cb085ae",
 "assets/assets/images/icons/profile.png": "08d1d4e45cd334c280129cefec3204ed",
 "assets/assets/images/icons/radius_close.png": "5e221ff2a3e55393ff2606279254ff56",
@@ -139,7 +144,9 @@ const RESOURCES = {
 "assets/assets/images/svg/stock/risingWedge.svg": "6a266f188b749be69325fa7325dadd05",
 "assets/assets/images/svg/stock/segment.svg": "3202eb415a4c012551334d46cd513474",
 "assets/assets/images/svg/stock/verticalLine.svg": "7dfd3a6f3e3d524e7720290d340ed19c",
+"assets/assets/images/trail.png": "6021da828885a46deb207dde744ffd3d",
 "assets/assets/images/update_bg_app_top.png": "55c14a0a8dc55c20f5eb49443c248348",
+"assets/assets/images/view.png": "c1a00b1708cfbcfbd06bc0775ae47c8d",
 "assets/assets/images/voicePlay.gif": "dd294da0a2531c5557a2fb3a83fe32c2",
 "assets/assets/images/voicePlayRight.gif": "c8193c46ce813b4099025517a3b41eba",
 "assets/assets/lottie/loading.json": "1b89a689976d795e488504d5b7668266",
@@ -167,11 +174,11 @@ const RESOURCES = {
 "icons/icon-29.png": "2ef25a3c6749e882f148a41d2750d876",
 "icons/icon-60.png": "90cb0ea6d697f3cf93c9cbbdbee52dd9",
 "icons/icon-83.png": "19870ac8cd94d83330d3d2c72de1163b",
-"index.html": "bc9a6ef8a3ce1cbff214f68ab47e362a",
-"/": "bc9a6ef8a3ce1cbff214f68ab47e362a",
-"main.dart.js": "db1e1762d7d4d2db3fccbf02aabf18e0",
+"index.html": "43993b70646648279aa19639c5ef6e73",
+"/": "43993b70646648279aa19639c5ef6e73",
+"main.dart.js": "10b023c51979fd468d0b1a081966c3f5",
 "manifest.json": "6832edb5e4be94645c6dd56e59200dee",
-"version.json": "910de5757ea72c154d0959b404a4bebe"
+"version.json": "e2e8e6c44a89fae0e228c5fd33dca749"
 };
 
 // The application shell files that are downloaded before a service worker can
