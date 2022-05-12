@@ -205,6 +205,10 @@
 		"h": "Settings",
 		"i": "Clear Cache",
 		"j": "Cache Cleared!",
+		"l": "Follow",
+		"m": "Wallet",
+		"n": "History",
+		"o": "Orders",
 		"login": {
 			"a": "WELCOME to",
 			"b": "Account",
