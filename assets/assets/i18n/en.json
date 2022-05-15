@@ -207,8 +207,10 @@
 		"j": "Cache Cleared!",
 		"l": "Follow",
 		"m": "Wallet",
-		"n": "History",
+		"n": "Watch History",
 		"o": "Orders",
+		"p": "Watchlist",
+		"r": "My Services",
 		"login": {
 			"a": "WELCOME to",
 			"b": "Account",
@@ -305,8 +307,8 @@
 			"h": "Your subscription expires on {value}",
 			"i": "《Terms and Conditions》",
 			"j": "Subscribe",
-			"k": "Activate",
-			"l": "Auto Renewals",
+			"k": "Subscribed (Auto-renewal cancelled)",
+			"l": "Subscribed (Auto-renewal)",
 			"m": "Pay",
 			"n": "{value} Month",
 			"o": "Analyst service is not availabe",
@@ -388,5 +390,19 @@
 		"a": "New vesion available: ",
 		"b": "Upgrade",
 		"c": "Ignore"
+	},
+	"orders":{
+		"0":"All",
+		"1":"Video",
+		"2":"Playlist",
+		"3":"Subscription",
+		"4":"Renew",
+		"5":"Meta",
+		"6":"Order Number",
+		"7":"Product Price",
+		"8":"Created Time",
+		"9":"Product Type",
+		"10":"",
+		"11":""
 	}
 }
