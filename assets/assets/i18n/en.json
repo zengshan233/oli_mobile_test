@@ -16,7 +16,8 @@
 		"o": "Enter the keyword",
 		"p": "Download app to enjoy customer service",
 		"r": "Got it",
-		"s": "See More"
+		"s": "See More",
+		"t": "The operation is too frequent"
 	},
 	"navigator": {
 		"a": "Home",
@@ -419,7 +420,12 @@
 		"10":"Recommend",
 		"11":"The trial is over, pay to unlock full content",
 		"12":"The trial is over, subscribe to unlock full content",
+		"33":"The trial is over, pay or subscribe to unlock full content",
 		"13":"The trial is over, login to unlock full content",
+		"34":"Pay to unlock full content",
+		"35":"Subscribe to unlock full content",
+		"36":"Pay or subscribe to unlock full content",
+		"37":"Login to watch full content",
 		"14":"{value}-minute free trial",
 		"15":"{value}-minute free trial",
 		"16":"{value}-minute free trial",
