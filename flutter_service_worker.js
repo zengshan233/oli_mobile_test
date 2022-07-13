@@ -191,7 +191,7 @@ const RESOURCES = {
 "js/aliplayercomponents.min.js": "a41708837e03c2aeee4a72d3b11a2f57",
 "js/images.js": "1bdd376fe98791265f7afa3e75b79813",
 "js/pdf.js": "e1a3ddf0caee90195637a8aa9cbb2e34",
-"main.dart.js": "430bf0e451e0e87bcf72e4af2129ae6a",
+"main.dart.js": "775eada6805d2f6680f71563e539a42e",
 "manifest.json": "6832edb5e4be94645c6dd56e59200dee",
 "version.json": "c7f1fd450b25ae168d33eb5849170c78"
 };
