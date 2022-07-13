@@ -24,7 +24,8 @@
 		"b": "Research",
 		"c": "Markets",
 		"d": "Me",
-		"e": "Videos"
+		"e": "Videos",
+		"f": "Message"
 	},
 	"home": {
 		"a": "Oli View",
@@ -70,7 +71,8 @@
 			"a": "Support/Resistance and more Pattern Recognition features are only available for subscribed users",
 			"b": "Bear/Bull Analysis and Financial Ratio Analysis features are only available for subscribed users",
 			"c": "Target Price and Analyst Recommendations features are only available for subscribed users",
-			"d": ""
+			"d": "",
+			"e": "Research reports are only available for subscribed users"
 		},
 		"tabs": {
 			"a": "Overviews and News",
@@ -124,7 +126,7 @@
 			"q": "Adjusted Amount",
 			"r": "Bearish: {value}",
 			"s": "Bullish: {value}",
-			"t": "From last financial year {year}, {symbol}'s income {incomeTip}, net income {netIncome}%, net assets {netAssets}%.",
+			"t": "From last financial year {year}, {symbol}'s income {incomeTip}, net income {netIncome}, net assets {netAssets}.",
 			"u": "Income",
 			"v": "Asset",
 			"w": "Cash Flow",
@@ -254,6 +256,8 @@
 			"a": "Settings",
 			"b": "Profile",
 			"c": "Change Password",
+			"c1": "Change Email",
+			"c2": "Change Phone",
 			"d": "Notifications",
 			"e": "About us",
 			"f": "Language",
@@ -290,7 +294,8 @@
 				"d": "Description",
 				"e": "Gender",
 				"f": "Date of Birth",
-				"g": "Contact Number",
+				"g": "Login Mobile Number",
+				"g1": "Login Email",
 				"h": "Male",
 				"i": "Female",
 				"j": "Editting..."

@@ -4,7 +4,11 @@
 <head>
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Oli View.">
+  <title>Oli View</title>
+  <meta name="keywords" content="金融、投资、软件,澳股，美股，股市，绩优股，炒股，赚钱，炒股app，基金，期货，股票，外汇，外汇交易，澳洲股票市场">
+  <meta name="description"
+    content="Oli View is designed to help investors thoroughly understand the latest market news and assist investors to avoid making inappropriate investment decisions because of outdated informations. Oli Research also releases daily exclusive views and insights on the global financial market or conduct comprehensive research and in-depth analysis on multiple hot topics and industries.">
+
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -12,25 +16,58 @@
   <meta name="theme-color" content="#ffffff" />
   <link rel="apple-touch-icon" href="./icons/icon-83.png">
   <!-- Favicon -->
+  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.22/skins/default/aliplayer-min.css" />
+ 
+  <link rel="stylesheet" href="./css/Aliplayer.css">
+  <script src="https://g.alicdn.com/de/prismplayer/2.9.22/hls/aliplayer-hls-min.js"></script>
+  
+  <script src="https://g.alicdn.com/de/prismplayer/2.9.22/aliplayer-min.js"></script>
+  <!-- 请下载之后使用 -->
+  <script src="./js/aliplayercomponents.min.js"></script>
+  <script src="./js/images.js"></script>
+  
+
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
 
-  <title>Oli View</title>
   <link rel="manifest" href="./manifest.json">
-  <!-- <script src="http://192.168.1.7:8888/target/target-script-min.js#anonymous"></script> -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-188321425-1"></script>
+  <script>window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-188321425-1');</script>
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PBZKMKV');</script>
+
+
 </head>
 
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-N7CC862');</script>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=1585540340');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=676323235');
       });
     }
   </script>
-  <script src="./pdf.js"></script>
+  <script src="./js/pdf.js"></script>
   <script type="text/javascript">
     pdfjsLib.GlobalWorkerOptions.workerSrc = "//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js";
   </script>
