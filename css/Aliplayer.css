@@ -80,6 +80,9 @@
 #videoContainer .prism-play-btn {
   background-size: 100% 100% !important;
 }
+#videoContainer .preview-component-tip{
+  display: none!important;
+}
 #videoContainer .prism-fullscreen-btn {
   width: 24px;
   height: 24px;
