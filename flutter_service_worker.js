@@ -180,7 +180,7 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"css/Aliplayer.css": "21b8cc1797a397185c60d21510cd2e24",
+"css/Aliplayer.css": "179d8463e885ab26fb2e87c44e293fc3",
 "favicon.ico": "2182e2e05573ae2def3f003de20d1379",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/icon-29.png": "2ef25a3c6749e882f148a41d2750d876",
@@ -191,7 +191,7 @@ const RESOURCES = {
 "js/aliplayercomponents.min.js": "a41708837e03c2aeee4a72d3b11a2f57",
 "js/images.js": "1bdd376fe98791265f7afa3e75b79813",
 "js/pdf.js": "e1a3ddf0caee90195637a8aa9cbb2e34",
-"main.dart.js": "775eada6805d2f6680f71563e539a42e",
+"main.dart.js": "2058efcdaa208848cb3d7594a58df7cc",
 "manifest.json": "6832edb5e4be94645c6dd56e59200dee",
 "version.json": "c7f1fd450b25ae168d33eb5849170c78"
 };
